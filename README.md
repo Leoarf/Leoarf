@@ -1,25 +1,24 @@
-## Bem-vindo(a) ao perfil de Leoarf 
+# Hi there 👋
 
-<div>
-  <a href="https://github.com/Leoarf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoarf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoarf&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Se quiser falar comigo ou saber mais sobre mim basta me seguir nas redes sociais abaixo :)
- 
-<div> 
-  <a href="https://www.instagram.com/leo.arf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardoaraujofonsecaofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leoarf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Leoarf/Leoarf/blob/output/github-contribution-grid-snake.svg)
+I'm **Leonardo de Araujo**, a passionate and curious Full Stack Web Developer who enjoys building responsive, functional, and clean web applications.
 
-</div>
+## 🛠️ Technologies & Tools
+
+- JavaScript / ES6
+- TypeScript
+- React
+- Next.js
+- Redux
+- Node.js
+- Express
+- MongoDB
+- MySQL
+- Sequelize
+- Python
+- Jest
+- Testing Library
+
+## 📫 How to reach me
+
+- Gmail: leonardoaraujofonsecaofc@gmail.com  
+- LinkedIn: [linkedin.com/in/leoarf](https://www.linkedin.com/in/leoarf/)
